@@ -80,8 +80,8 @@ Locales['en'] = {
   ['wallet_check_idcard_button'] = 'Look at his identity card',
   ['wallet_show_driver_button'] = 'Show your driving license',
   ['wallet_check_driver_button'] = 'Look at your drivers license',
-  ['wallet_show_firearms_button'] = 'Show your gun port license',
-  ['wallet_check_firearms_button'] = 'Look at his gun port license',
+  ['wallet_show_firearms_button'] = 'Show your gun license',
+  ['wallet_check_firearms_button'] = 'Look at his gun license',
 
   -- Bills Menu
   ['bills_title'] = 'Invoices',
